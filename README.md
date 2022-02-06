@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Data Scientist who
+I am a Data Science Graduate who
 - 💪 loves to solve complex problems in diverse domains
-- 🌍 is currently working in the field of Health
+- 🌍 is currently doing internship in the field of Health
 - 🔥 handled challenging tasks in Bioinformatics, Telecommunications & Knowledge Graphs
 - ⚡ plays with all kinds of data structures - text, image, graph, numerical etc
 - ☀️ at the end of the day, aims to make the data shine!
 - 📝 I am thinking write at Medium
 
-📬 Reach me at : rajesh.idumalla@gmail.com or LinkedIn
+📬 Reach me at : rajesh.idumalla@gmail.com or LinkedIn[www.linkedin.com/in/rajeshidumalla]
 
 Languages and Tools :
 
