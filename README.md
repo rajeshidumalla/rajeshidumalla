@@ -22,7 +22,7 @@ I am a Data Science Graduate who
 - ☀️ at the end of the day, aims to make the data shine!
 - 📝 I am thinking write at Medium
 
-📬 Reach me at : rajesh.idumalla@gmail.com or LinkedIn[www.linkedin.com/in/rajeshidumalla]
+📬 Reach me at : rajesh.idumalla@gmail.com or [LinkedIn][www.linkedin.com/in/rajeshidumalla]
 
 Languages and Tools :
 
