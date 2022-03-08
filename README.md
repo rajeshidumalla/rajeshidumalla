@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Data Science Graduate who
+I am a Data Scientist who
 - 💪 loves to solve complex problems in diverse domains
 - 🌍 is currently doing internship in the field of Health
 - 🔥 handled challenging tasks in Bioinformatics, Telecommunications & Knowledge Graphs
