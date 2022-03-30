@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a Data Scientist who
 - 💪 loves to solve complex problems in diverse domains
-- 🌍 is currently doing internship in the field of Health
+- 🌍 is currently working in the field of finance
 - 🔥 handled challenging tasks in Bioinformatics, Telecommunications & Knowledge Graphs
 - ⚡ plays with all kinds of data structures - text, image, graph, numerical etc
 - ☀️ at the end of the day, aims to make the data shine!
