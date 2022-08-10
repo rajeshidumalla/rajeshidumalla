@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Data Scientist who
+I am all about Data who
 - 💪 loves to solve complex problems in diverse domains
 - 🔥 handled challenging tasks in fraud detection, scoring algorithams & NLP Techniques
 - ⚡ plays with all kinds of data structures - text, image, graph, numerical etc
