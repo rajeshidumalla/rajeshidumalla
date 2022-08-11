@@ -25,4 +25,4 @@ I am all about Data who
 
 Languages and Tools :
 
-Python, R, SQL, GIT, PowerBI, Data Visualization, Deep Learning, Linux CLI, MLOps
+Python, R, SQL, GIT, PowerBI, Data Visualization, Deep Learning, MLOps
